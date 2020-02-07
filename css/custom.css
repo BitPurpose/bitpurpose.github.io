@@ -1,0 +1,19 @@
+/*! Place your custom styles here */
+.bg--dark:not(.nav-bar):not(.bar) h4,
+.bg--dark:not(.nav-bar):not(.bar) p h4 {
+  color: #35FF00;
+}
+
+.bg--default,
+.bg--dark {
+  background: #150F26;
+}
+
+
+.color--primary {
+  color: #35FF00 !important;
+}
+
+.col-md-4.col-lg-3 h4 {
+  color: #35FF00 !important;
+}
