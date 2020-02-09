@@ -5,6 +5,7 @@
 }
 
 .bg--default,
+.nav-container,
 .bg--dark {
   background: #150F26;
 }
@@ -23,5 +24,9 @@
 }
 
 a {
-  color: #666;
+  color: #808080;
 }
+
+.menu-horizontal > li > a, .menu-horizontal > li > span, .menu-horizontal > li > .modal-instance > .modal-trigger 
+{
+  color: #fff;
