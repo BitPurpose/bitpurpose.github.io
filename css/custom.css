@@ -1,4 +1,21 @@
 /*! Place your custom styles here */
+
+
+.bitpurpose {
+  background: linear-gradient(220deg, #6DD400 0%, #63E2FF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Avenir Next;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 131px;
+}
+
+.bitpurpose-pre {
+  font-weight: 500;
+}
+
 .bg--dark:not(.nav-bar):not(.bar) h4,
 .bg--dark:not(.nav-bar):not(.bar) p h4 {
   color: #35FF00;
